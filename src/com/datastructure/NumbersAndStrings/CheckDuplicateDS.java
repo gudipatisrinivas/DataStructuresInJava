@@ -33,6 +33,8 @@ public class CheckDuplicateDS {
 		// TODO Auto-generated method stub
 		String[] inputValues = { "Rob", "Chris", "Justin", "Julia", "Chris" };
 		checkDuplicateUsingSet(inputValues);
+		
+		
 
 	}
 
